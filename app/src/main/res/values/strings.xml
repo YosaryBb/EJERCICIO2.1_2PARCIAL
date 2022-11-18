@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EJERCICIO2.1_2PARCIAL</string>
+    <string name="grabar_video">Grabar video</string>
+    <string name="guardar_video">Guardar video</string>
+</resources>
